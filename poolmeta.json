@@ -1,1 +1,7 @@
-{"name":"KimJongUn","ticker":"KIM","description":"Stake to donate to our glorious and benevolent leader","homepage":"https://en.wikipedia.org/wiki/Kim_Jong_Un","nonce":"1638873760"}
+{
+  "name": "KimJongUn",
+  "ticker": "KIMJU",
+  "description": "Delegate to support our supreme, glorious and benevolent leader",
+  "homepage": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+  "nonce": "1693372702"
+}
